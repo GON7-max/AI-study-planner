@@ -16,19 +16,12 @@
       "bundleIdentifier": "com.gon7.studymindai"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#4A90E2"
-      },
       "package": "com.gon7.studymindai",
       "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": [
-      "@react-native-async-storage/async-storage"
-    ],
     "extra": {
       "eas": {
         "projectId": "6b8870f3-f203-4300-9ad8-0e95f81177b0"
